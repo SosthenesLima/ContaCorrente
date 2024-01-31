@@ -1,3 +1,16 @@
+/*
+Nossa sugestão é que faça por etapas passando por cada detalhe e testando, como em um checklist:
+
+Inicializar dados do cliente
+Menu de opções
+Visualização do saldo
+Enviar valor
+Receber valor
+29/01/2024
+
+ */
+
+
 import java.util.Scanner;
 
 public class Desafio {
